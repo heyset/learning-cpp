@@ -1,0 +1,7 @@
+mytext
+anothertext
+anotherline
+onemoreline
+line
+line
+line
